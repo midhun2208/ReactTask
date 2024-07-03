@@ -4,7 +4,7 @@ function App() {
     return (
         <>
             <div className="App">
-                <h1>My First React App</h1>
+                <h1 className="text-red-800 ">My First React App</h1>
                 {count}
             </div>
         </>
